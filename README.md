@@ -44,8 +44,9 @@ while True:
     s.send("acknowledgement recived from the server".encode())
  ```
 ### SERVER OUTPUT :
-![ex-03](https://github.com/Kalpanareshma/EX-3/assets/122040453/2b0ade94-9cda-40d1-b1bf-869e2abd36ba)
+![ex03 server output](https://github.com/Kalpanareshma/EX-3/assets/122040453/8f515237-b638-4965-8ef8-541bdfa1a418)
 ## CLIENT OUTPUT :
-![ex-03 client](https://github.com/Kalpanareshma/EX-3/assets/122040453/47e9939f-4b12-4703-b767-8c13776a3125)
+![ex03 client output](https://github.com/Kalpanareshma/EX-3/assets/122040453/6289f3d9-04c9-4cf5-9aed-54b7a781f120)
+
 ## RESULT :
 Thus, python program to perform stop and wait protocol And Sliding Window Protocol was successfully executed.
