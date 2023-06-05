@@ -43,6 +43,7 @@ while True:
     print(s.recv(1024).decode())
     s.send("acknowledgement recived from the server".encode())
  ```
+# OUTPUT :
 ### SERVER OUTPUT :
 ![ex03 server output](https://github.com/Kalpanareshma/EX-3/assets/122040453/8f515237-b638-4965-8ef8-541bdfa1a418)
 ## CLIENT OUTPUT :
